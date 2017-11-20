@@ -1,3 +1,3 @@
-# Coursera Machine Learning Specialization from University of Washington
+### Coursera Machine Learning Specialization from University of Washington
 
 
